@@ -1,0 +1,2 @@
+# translatorplugin
+一款基于eclipse的翻译插件，开发者门户项目的插件即是基于此插件基础上改造而成
